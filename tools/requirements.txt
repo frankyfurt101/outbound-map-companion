@@ -1,0 +1,5 @@
+# pip install -r tools/requirements.txt
+UnityPy==1.25.4
+cryptography==50.0.2
+# Optional: only needed on Python older than 3.14 (3.14+ has compression.zstd built in).
+zstandard; python_version < "3.14"

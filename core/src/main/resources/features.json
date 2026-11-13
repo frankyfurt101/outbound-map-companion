@@ -1,0 +1,1522 @@
+[
+{
+"id": "startingLevel-camp-fire-center-plateau-2",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 458.5,
+"y": 40.0,
+"z": 41.4
+},
+{
+"id": "startingLevel-signal-tower-wheat-fields-3",
+"kind": "tower",
+"region": "startingLevel",
+"x": 905.2,
+"y": 11.1,
+"z": 378.9
+},
+{
+"id": "startingLevel-signal-tower-wheat-area-2",
+"kind": "tower",
+"region": "startingLevel",
+"x": 260.1,
+"y": 35.6,
+"z": 753.6
+},
+{
+"id": "startingLevel-signal-tower-starting-upper",
+"kind": "tower",
+"region": "startingLevel",
+"x": 15.0,
+"y": 33.1,
+"z": 38.5
+},
+{
+"id": "startingLevel-signal-tower-draw-bridge-after",
+"kind": "tower",
+"region": "startingLevel",
+"x": 403.9,
+"y": 34.0,
+"z": -23.6
+},
+{
+"id": "startingLevel-signal-tower-cave",
+"kind": "tower",
+"region": "startingLevel",
+"x": 740.6,
+"y": 28.1,
+"z": -99.1
+},
+{
+"id": "startingLevel-signal-tower-starting-lookout",
+"kind": "tower",
+"region": "startingLevel",
+"x": 107.5,
+"y": 53.1,
+"z": -196.9
+},
+{
+"id": "startingLevel-signal-tower-the-view",
+"kind": "tower",
+"region": "startingLevel",
+"x": 899.0,
+"y": 73.6,
+"z": 144.2
+},
+{
+"id": "startingLevel-signal-tower-tunnel-area-1",
+"kind": "tower",
+"region": "startingLevel",
+"x": 952.6,
+"y": 36.2,
+"z": 604.0
+},
+{
+"id": "startingLevel-signal-tower-wheat-fields-left",
+"kind": "tower",
+"region": "startingLevel",
+"x": 628.9,
+"y": 15.9,
+"z": 735.7
+},
+{
+"id": "startingLevel-signal-tower-center-area-3",
+"kind": "tower",
+"region": "startingLevel",
+"x": 534.4,
+"y": 9.9,
+"z": 363.8
+},
+{
+"id": "startingLevel-signal-tower-western-hill",
+"kind": "tower",
+"region": "startingLevel",
+"x": 26.3,
+"y": 45.0,
+"z": 169.7
+},
+{
+"id": "startingLevel-signal-tower-center",
+"kind": "tower",
+"region": "startingLevel",
+"x": 454.7,
+"y": 35.9,
+"z": 158.0
+},
+{
+"id": "startingLevel-signal-tower-starting-rocky-area",
+"kind": "tower",
+"region": "startingLevel",
+"x": 436.8,
+"y": 35.0,
+"z": -120.3
+},
+{
+"id": "startingLevel-signal-tower-tunnel-area-2",
+"kind": "tower",
+"region": "startingLevel",
+"x": 876.1,
+"y": 40.4,
+"z": 919.4
+},
+{
+"id": "startingLevel-signal-tower-mid-near-wind-farm",
+"kind": "tower",
+"region": "startingLevel",
+"x": 305.5,
+"y": 19.8,
+"z": 556.5
+},
+{
+"id": "startingLevel-signal-tower-starting-lower",
+"kind": "tower",
+"region": "startingLevel",
+"x": 296.6,
+"y": 41.4,
+"z": -284.3
+},
+{
+"id": "startingLevel-signal-tower-draw-bridge-before",
+"kind": "tower",
+"region": "startingLevel",
+"x": 240.5,
+"y": 33.4,
+"z": -54.9
+},
+{
+"id": "startingLevel-signal-tower-lake",
+"kind": "tower",
+"region": "startingLevel",
+"x": 281.1,
+"y": 36.2,
+"z": 337.4
+},
+{
+"id": "startingLevel-camp-fire-fire-lookout",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 176.8,
+"y": 30.1,
+"z": 79.6
+},
+{
+"id": "startingLevel-camp-fire-center-plateau-3",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 561.8,
+"y": 44.9,
+"z": 196.5
+},
+{
+"id": "startingLevel-camp-fire-right-area-2",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 523.2,
+"y": 50.2,
+"z": -217.1
+},
+{
+"id": "startingLevel-camp-fire-center-area-3",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 495.9,
+"y": 22.7,
+"z": 282.7
+},
+{
+"id": "startingLevel-camp-fire-metal-view",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 1119.4,
+"y": 35.0,
+"z": 622.3
+},
+{
+"id": "startingLevel-camp-fire-starting-lookout",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 168.4,
+"y": 52.4,
+"z": -205.5
+},
+{
+"id": "startingLevel-camp-fire-draw-bridge",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 272.2,
+"y": 28.3,
+"z": -21.2
+},
+{
+"id": "startingLevel-camp-fire-the-view",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 918.6,
+"y": 71.3,
+"z": 153.5
+},
+{
+"id": "startingLevel-camp-fire-turbine-view",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 816.8,
+"y": 35.9,
+"z": 770.3
+},
+{
+"id": "startingLevel-camp-fire-center-area-4",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 387.1,
+"y": 32.7,
+"z": 285.7
+},
+{
+"id": "startingLevel-camp-fire-rocky-area",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 353.9,
+"y": 36.1,
+"z": -137.4
+},
+{
+"id": "startingLevel-camp-fire-starting-lookout-bottom",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 212.6,
+"y": 33.7,
+"z": -260.5
+},
+{
+"id": "startingLevel-camp-fire-the-falls",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 980.2,
+"y": 63.6,
+"z": 71.5
+},
+{
+"id": "startingLevel-camp-fire-fibre-area",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 365.7,
+"y": 37.4,
+"z": -269.2
+},
+{
+"id": "startingLevel-camp-fire-farm",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 1051.8,
+"y": 68.7,
+"z": 285.4
+},
+{
+"id": "startingLevel-camp-fire-right-area",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 496.4,
+"y": 35.4,
+"z": -129.4
+},
+{
+"id": "startingLevel-camp-fire-center-plateau",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 460.1,
+"y": 42.8,
+"z": 226.9
+},
+{
+"id": "startingLevel-camp-fire-tree-hut",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 23.5,
+"y": 27.7,
+"z": 447.9
+},
+{
+"id": "startingLevel-camp-fire-lake",
+"kind": "campfire",
+"region": "startingLevel",
+"x": 159.6,
+"y": 23.3,
+"z": 230.4
+},
+{
+"id": "startingLevel-supply-cache-cave",
+"kind": "cache",
+"region": "startingLevel",
+"x": 845.1,
+"y": 10.3,
+"z": -198.0
+},
+{
+"id": "pacificCoast-supply-cache-weather-station",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 902.2,
+"y": 153.1,
+"z": 988.9
+},
+{
+"id": "pacificCoast-signal-tower-blue-house-boat",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1271.9,
+"y": 62.7,
+"z": 752.8
+},
+{
+"id": "pacificCoast-signal-tower-coffee-farm",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1007.6,
+"y": 59.0,
+"z": 139.1
+},
+{
+"id": "pacificCoast-signal-tower-lighthouse",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 596.6,
+"y": 99.4,
+"z": 693.4
+},
+{
+"id": "pacificCoast-signal-tower-weather-station",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 900.8,
+"y": 151.0,
+"z": 989.5
+},
+{
+"id": "pacificCoast-signal-tower-start",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 220.3,
+"y": 48.7,
+"z": 104.3
+},
+{
+"id": "pacificCoast-signal-tower-maze",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1021.5,
+"y": 72.5,
+"z": 488.9
+},
+{
+"id": "pacificCoast-signal-tower-beach-inlet",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 785.8,
+"y": 42.2,
+"z": 910.5
+},
+{
+"id": "pacificCoast-signal-tower-level-end",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1403.9,
+"y": 63.3,
+"z": 1128.1
+},
+{
+"id": "pacificCoast-signal-tower-solar-fields",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1178.4,
+"y": 109.2,
+"z": 276.1
+},
+{
+"id": "pacificCoast-signal-tower-rubber-tree-area-1",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1488.6,
+"y": 111.4,
+"z": 492.7
+},
+{
+"id": "pacificCoast-signal-tower-crater-lake",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 833.1,
+"y": 113.7,
+"z": 418.0
+},
+{
+"id": "pacificCoast-signal-tower-middle-mountain",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1046.8,
+"y": 91.1,
+"z": 609.0
+},
+{
+"id": "pacificCoast-signal-tower-near-first-beach",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 599.1,
+"y": 68.3,
+"z": 112.4
+},
+{
+"id": "pacificCoast-signal-tower-big-hike",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1122.6,
+"y": 91.1,
+"z": 926.3
+},
+{
+"id": "pacificCoast-signal-tower-rubber-area",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1403.5,
+"y": 73.8,
+"z": 898.2
+},
+{
+"id": "pacificCoast-signal-tower-solar-fields-2",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1382.9,
+"y": 110.9,
+"z": 108.5
+},
+{
+"id": "pacificCoast-signal-tower-flower-fields",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 859.4,
+"y": 79.1,
+"z": 1160.6
+},
+{
+"id": "pacificCoast-signal-tower-heart-lake",
+"kind": "tower",
+"region": "pacificCoast",
+"x": 1240.0,
+"y": 69.0,
+"z": 611.0
+},
+{
+"id": "pacificCoast-camp-fire-first-beach",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 633.0,
+"y": 42.6,
+"z": 257.4
+},
+{
+"id": "pacificCoast-camp-fire-maze-tail",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1124.4,
+"y": 70.0,
+"z": 370.4
+},
+{
+"id": "pacificCoast-camp-fire-flower-fields",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1270.1,
+"y": 76.1,
+"z": 441.0
+},
+{
+"id": "pacificCoast-camp-fire-first-hill",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 340.6,
+"y": 90.0,
+"z": 223.9
+},
+{
+"id": "pacificCoast-camp-fire-after-brick-bridge",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 980.0,
+"y": 80.0,
+"z": 636.0
+},
+{
+"id": "pacificCoast-camp-fire-ducktrail",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 819.2,
+"y": 53.5,
+"z": 336.6
+},
+{
+"id": "pacificCoast-camp-fire-rubber-area-high",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1460.5,
+"y": 110.0,
+"z": 475.0
+},
+{
+"id": "pacificCoast-camp-fire-maze-view",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1144.3,
+"y": 110.3,
+"z": 333.7
+},
+{
+"id": "pacificCoast-camp-fire-the-outskirt",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 697.4,
+"y": 62.9,
+"z": 55.9
+},
+{
+"id": "pacificCoast-camp-fire-big-hike-base-camp",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1008.9,
+"y": 80.0,
+"z": 811.8
+},
+{
+"id": "pacificCoast-camp-fire-big-hike-advanced-camp",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 813.2,
+"y": 110.0,
+"z": 1063.8
+},
+{
+"id": "pacificCoast-camp-fire-the-coast",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 165.3,
+"y": 47.0,
+"z": 94.7
+},
+{
+"id": "pacificCoast-camp-fire-river-boats",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1253.9,
+"y": 58.9,
+"z": 759.1
+},
+{
+"id": "pacificCoast-camp-fire-dolphin-lookout",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 843.4,
+"y": 78.4,
+"z": 1250.3
+},
+{
+"id": "pacificCoast-camp-fire-coffee-farm",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 995.9,
+"y": 58.0,
+"z": 143.6
+},
+{
+"id": "pacificCoast-camp-fire-mid-second-bay",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 740.1,
+"y": 40.6,
+"z": 714.8
+},
+{
+"id": "pacificCoast-camp-fire-solar-grounds",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1472.9,
+"y": 79.1,
+"z": 280.0
+},
+{
+"id": "pacificCoast-camp-fire-bixby-bridge-view",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1383.2,
+"y": 64.8,
+"z": 1119.3
+},
+{
+"id": "pacificCoast-camp-fire-second-bay",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 906.6,
+"y": 40.7,
+"z": 747.2
+},
+{
+"id": "pacificCoast-camp-fire-the-bend",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1317.1,
+"y": 58.9,
+"z": 934.5
+},
+{
+"id": "pacificCoast-camp-fire-rusty-boat",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 900.2,
+"y": 40.7,
+"z": 1180.4
+},
+{
+"id": "pacificCoast-camp-fire-lighthouse-walk",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 649.9,
+"y": 40.9,
+"z": 945.8
+},
+{
+"id": "pacificCoast-camp-fire-heart-lake-view",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 1128.7,
+"y": 70.0,
+"z": 749.6
+},
+{
+"id": "pacificCoast-camp-fire-crater-lake",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 931.5,
+"y": 109.1,
+"z": 463.2
+},
+{
+"id": "pacificCoast-camp-fire-dog-hotel",
+"kind": "campfire",
+"region": "pacificCoast",
+"x": 367.2,
+"y": 44.1,
+"z": 110.4
+},
+{
+"id": "pacificCoast-supply-cache-the-bend",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1316.0,
+"y": 58.9,
+"z": 929.0
+},
+{
+"id": "pacificCoast-supply-cache-under-bixby",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1308.8,
+"y": 66.4,
+"z": 1035.2
+},
+{
+"id": "pacificCoast-supply-cache-maze-tail",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1128.1,
+"y": 70.0,
+"z": 364.8
+},
+{
+"id": "pacificCoast-supply-cache-solar-grounds",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1478.1,
+"y": 79.0,
+"z": 281.6
+},
+{
+"id": "pacificCoast-supply-cache-flower-fields",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1271.6,
+"y": 76.1,
+"z": 443.2
+},
+{
+"id": "pacificCoast-supply-cache-under-lighthouse",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 613.8,
+"y": 45.7,
+"z": 719.9
+},
+{
+"id": "pacificCoast-supply-cache-beach-hidden",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 721.2,
+"y": 40.6,
+"z": 893.1
+},
+{
+"id": "pacificCoast-supply-cache-river-boats",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1253.3,
+"y": 58.8,
+"z": 747.0
+},
+{
+"id": "pacificCoast-supply-cache-maze-view",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1142.7,
+"y": 110.3,
+"z": 337.1
+},
+{
+"id": "pacificCoast-supply-cache-side-large-mountain",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1070.5,
+"y": 109.6,
+"z": 937.8
+},
+{
+"id": "pacificCoast-supply-cache-cave",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1081.1,
+"y": 53.0,
+"z": 827.9
+},
+{
+"id": "pacificCoast-supply-cache-rusty-boat",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 919.8,
+"y": 43.9,
+"z": 1216.7
+},
+{
+"id": "pacificCoast-supply-cache-under-waterfall",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 967.5,
+"y": 40.3,
+"z": 551.6
+},
+{
+"id": "pacificCoast-supply-cache-dolphin-lookout",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 849.0,
+"y": 77.8,
+"z": 1251.3
+},
+{
+"id": "pacificCoast-supply-cache-lighthouse-walk",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 648.7,
+"y": 40.9,
+"z": 937.8
+},
+{
+"id": "pacificCoast-supply-cache-the-outskirts",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 704.3,
+"y": 62.9,
+"z": 41.7
+},
+{
+"id": "pacificCoast-supply-cache-maze-1",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1104.4,
+"y": 70.0,
+"z": 365.5
+},
+{
+"id": "pacificCoast-supply-cache-maze-2",
+"kind": "cache",
+"region": "pacificCoast",
+"x": 1039.3,
+"y": 70.1,
+"z": 447.4
+},
+{
+"id": "canyons-supply-cache-near-plant-house",
+"kind": "cache",
+"region": "canyons",
+"x": 271.5,
+"y": 70.2,
+"z": 210.0
+},
+{
+"id": "canyons-camp-fire-excavation",
+"kind": "campfire",
+"region": "canyons",
+"x": 1421.8,
+"y": 96.6,
+"z": 813.2
+},
+{
+"id": "canyons-camp-fire-cactus-area-right",
+"kind": "campfire",
+"region": "canyons",
+"x": 1329.9,
+"y": 76.9,
+"z": 335.5
+},
+{
+"id": "canyons-camp-fire-campground-13",
+"kind": "campfire",
+"region": "canyons",
+"x": 1120.5,
+"y": 70.0,
+"z": 309.7
+},
+{
+"id": "canyons-camp-fire-broken-cabin",
+"kind": "campfire",
+"region": "canyons",
+"x": 559.3,
+"y": 66.8,
+"z": 1309.7
+},
+{
+"id": "canyons-camp-fire-rugged-ridge",
+"kind": "campfire",
+"region": "canyons",
+"x": 602.5,
+"y": 72.9,
+"z": 149.7
+},
+{
+"id": "canyons-camp-fire-picture-perfect",
+"kind": "campfire",
+"region": "canyons",
+"x": 1119.4,
+"y": 75.0,
+"z": 86.8
+},
+{
+"id": "canyons-camp-fire-balancing-peak",
+"kind": "campfire",
+"region": "canyons",
+"x": 458.3,
+"y": 100.0,
+"z": 514.5
+},
+{
+"id": "canyons-camp-fire-campground-10",
+"kind": "campfire",
+"region": "canyons",
+"x": 1432.5,
+"y": 102.7,
+"z": 962.9
+},
+{
+"id": "canyons-camp-fire-canyons-down-below",
+"kind": "campfire",
+"region": "canyons",
+"x": 559.2,
+"y": 11.0,
+"z": 390.8
+},
+{
+"id": "canyons-camp-fire-kayak-station",
+"kind": "campfire",
+"region": "canyons",
+"x": 1276.9,
+"y": 77.0,
+"z": 120.6
+},
+{
+"id": "canyons-camp-fire-big-bend",
+"kind": "campfire",
+"region": "canyons",
+"x": 1034.4,
+"y": 11.6,
+"z": 208.7
+},
+{
+"id": "canyons-camp-fire-canyon-start",
+"kind": "campfire",
+"region": "canyons",
+"x": 843.5,
+"y": 83.0,
+"z": 155.3
+},
+{
+"id": "canyons-camp-fire-gooseneck-top",
+"kind": "campfire",
+"region": "canyons",
+"x": 1130.1,
+"y": 70.3,
+"z": 493.1
+},
+{
+"id": "canyons-camp-fire-campground-12",
+"kind": "campfire",
+"region": "canyons",
+"x": 1415.6,
+"y": 104.3,
+"z": 1417.7
+},
+{
+"id": "canyons-camp-fire-after-hairpin-turns",
+"kind": "campfire",
+"region": "canyons",
+"x": 977.0,
+"y": 82.8,
+"z": 682.1
+},
+{
+"id": "canyons-camp-fire-salt-lake",
+"kind": "campfire",
+"region": "canyons",
+"x": 1030.1,
+"y": 90.0,
+"z": 1036.7
+},
+{
+"id": "canyons-camp-fire-campground-7",
+"kind": "campfire",
+"region": "canyons",
+"x": 564.5,
+"y": 70.0,
+"z": 640.4
+},
+{
+"id": "canyons-camp-fire-oasis-1",
+"kind": "campfire",
+"region": "canyons",
+"x": 393.0,
+"y": 47.3,
+"z": 1129.7
+},
+{
+"id": "canyons-camp-fire-airstrip",
+"kind": "campfire",
+"region": "canyons",
+"x": 1317.8,
+"y": 102.1,
+"z": 1050.4
+},
+{
+"id": "canyons-signal-tower-airport",
+"kind": "tower",
+"region": "canyons",
+"x": 1277.0,
+"y": 103.3,
+"z": 1112.7
+},
+{
+"id": "canyons-supply-cache-campground-6",
+"kind": "cache",
+"region": "canyons",
+"x": 1128.1,
+"y": 70.2,
+"z": 484.9
+},
+{
+"id": "canyons-supply-cache-campground-13",
+"kind": "cache",
+"region": "canyons",
+"x": 1117.7,
+"y": 70.0,
+"z": 302.7
+},
+{
+"id": "canyons-supply-cache-broken-hut",
+"kind": "cache",
+"region": "canyons",
+"x": 563.2,
+"y": 66.8,
+"z": 1321.0
+},
+{
+"id": "canyons-supply-cache-campground-8",
+"kind": "cache",
+"region": "canyons",
+"x": 974.5,
+"y": 82.6,
+"z": 680.0
+},
+{
+"id": "canyons-supply-cache-campground-12",
+"kind": "cache",
+"region": "canyons",
+"x": 1410.2,
+"y": 104.3,
+"z": 1422.0
+},
+{
+"id": "canyons-supply-cache-waterbend",
+"kind": "cache",
+"region": "canyons",
+"x": 553.3,
+"y": 11.0,
+"z": 388.5
+},
+{
+"id": "canyons-supply-cache-campground-9",
+"kind": "cache",
+"region": "canyons",
+"x": 465.7,
+"y": 100.0,
+"z": 517.1
+},
+{
+"id": "canyons-supply-cache-campground-10",
+"kind": "cache",
+"region": "canyons",
+"x": 1439.2,
+"y": 102.9,
+"z": 956.6
+},
+{
+"id": "canyons-supply-cache-campground-1",
+"kind": "cache",
+"region": "canyons",
+"x": 600.9,
+"y": 73.0,
+"z": 156.3
+},
+{
+"id": "canyons-supply-cache-salt-lake",
+"kind": "cache",
+"region": "canyons",
+"x": 1027.4,
+"y": 91.9,
+"z": 1007.1
+},
+{
+"id": "canyons-supply-cache-oasis-1",
+"kind": "cache",
+"region": "canyons",
+"x": 388.9,
+"y": 47.4,
+"z": 1125.7
+},
+{
+"id": "canyons-supply-cache-campground-3",
+"kind": "cache",
+"region": "canyons",
+"x": 836.8,
+"y": 83.0,
+"z": 161.8
+},
+{
+"id": "canyons-supply-cache-campground-7",
+"kind": "cache",
+"region": "canyons",
+"x": 546.9,
+"y": 69.9,
+"z": 620.1
+},
+{
+"id": "canyons-supply-cache-campground-4",
+"kind": "cache",
+"region": "canyons",
+"x": 1266.9,
+"y": 77.0,
+"z": 117.2
+},
+{
+"id": "canyons-supply-cache-big-bend",
+"kind": "cache",
+"region": "canyons",
+"x": 1039.4,
+"y": 11.4,
+"z": 201.8
+},
+{
+"id": "canyons-supply-cache-mine-hut",
+"kind": "cache",
+"region": "canyons",
+"x": 1422.6,
+"y": 98.6,
+"z": 833.0
+},
+{
+"id": "canyons-supply-cache-picture-perfect",
+"kind": "cache",
+"region": "canyons",
+"x": 1114.0,
+"y": 70.6,
+"z": 115.8
+},
+{
+"id": "canyons-supply-cache-campground-5",
+"kind": "cache",
+"region": "canyons",
+"x": 1335.7,
+"y": 77.0,
+"z": 342.7
+},
+{
+"id": "canyons-camp-fire-research-center",
+"kind": "campfire",
+"region": "canyons",
+"x": 142.5,
+"y": 56.3,
+"z": 1110.8
+},
+{
+"id": "canyons-signal-tower-research-center",
+"kind": "tower",
+"region": "canyons",
+"x": 67.2,
+"y": 58.1,
+"z": 1131.0
+},
+{
+"id": "canyons-signal-tower-elevator-left",
+"kind": "tower",
+"region": "canyons",
+"x": 167.4,
+"y": 85.1,
+"z": 164.7
+},
+{
+"id": "canyons-signal-tower-broken-cabin",
+"kind": "tower",
+"region": "canyons",
+"x": 556.5,
+"y": 68.3,
+"z": 1317.4
+},
+{
+"id": "canyons-signal-tower-elevator-right",
+"kind": "tower",
+"region": "canyons",
+"x": 1354.9,
+"y": 84.9,
+"z": 289.1
+},
+{
+"id": "canyons-signal-tower-old-excavation-site",
+"kind": "tower",
+"region": "canyons",
+"x": 1392.7,
+"y": 101.1,
+"z": 793.8
+},
+{
+"id": "canyons-signal-tower-mid-level",
+"kind": "tower",
+"region": "canyons",
+"x": 958.1,
+"y": 81.2,
+"z": 664.6
+},
+{
+"id": "canyons-signal-tower-desert-overlook",
+"kind": "tower",
+"region": "canyons",
+"x": 773.0,
+"y": 91.2,
+"z": 978.1
+},
+{
+"id": "canyons-signal-tower-level-entry",
+"kind": "tower",
+"region": "canyons",
+"x": 775.2,
+"y": 82.1,
+"z": 190.2
+},
+{
+"id": "canyons-signal-tower-level-left",
+"kind": "tower",
+"region": "canyons",
+"x": 222.5,
+"y": 66.1,
+"z": 624.6
+},
+{
+"id": "canyons-signal-tower-gooseneck-top",
+"kind": "tower",
+"region": "canyons",
+"x": 1104.2,
+"y": 72.6,
+"z": 329.1
+},
+{
+"id": "canyons-signal-tower-between-bridges",
+"kind": "tower",
+"region": "canyons",
+"x": 429.4,
+"y": 74.5,
+"z": 231.1
+},
+{
+"id": "mountains-signal-tower-drone-dock-1-station",
+"kind": "tower",
+"region": "mountains",
+"x": 1068.7,
+"y": 88.4,
+"z": 379.1
+},
+{
+"id": "mountains-supply-cache-weather-station",
+"kind": "cache",
+"region": "mountains",
+"x": 1068.7,
+"y": 90.5,
+"z": 377.4
+},
+{
+"id": "mountains-camp-fire-area-first-sight",
+"kind": "campfire",
+"region": "mountains",
+"x": 1018.1,
+"y": 446.2,
+"z": 509.6
+},
+{
+"id": "mountains-camp-fire-color-island",
+"kind": "campfire",
+"region": "mountains",
+"x": 1132.2,
+"y": 401.8,
+"z": 1275.3
+},
+{
+"id": "mountains-camp-fire-area-1-cool-rock",
+"kind": "campfire",
+"region": "mountains",
+"x": 1152.8,
+"y": 402.1,
+"z": 730.3
+},
+{
+"id": "mountains-camp-fire-area-2-willow-geyser",
+"kind": "campfire",
+"region": "mountains",
+"x": 568.8,
+"y": 423.9,
+"z": 1304.0
+},
+{
+"id": "mountains-camp-fire-bamboo-forest",
+"kind": "campfire",
+"region": "mountains",
+"x": 1168.7,
+"y": 406.3,
+"z": 1077.6
+},
+{
+"id": "mountains-camp-fire-area-3-communal",
+"kind": "campfire",
+"region": "mountains",
+"x": 448.0,
+"y": 425.6,
+"z": 1078.0
+},
+{
+"id": "mountains-camp-fire-area-starting-beach",
+"kind": "campfire",
+"region": "mountains",
+"x": 984.8,
+"y": 66.6,
+"z": 268.8
+},
+{
+"id": "mountains-camp-fire-area-2-outcrop",
+"kind": "campfire",
+"region": "mountains",
+"x": 981.3,
+"y": 416.9,
+"z": 1332.2
+},
+{
+"id": "mountains-camp-fire-area-final-view",
+"kind": "campfire",
+"region": "mountains",
+"x": 768.7,
+"y": 474.8,
+"z": 724.9
+},
+{
+"id": "mountains-camp-fire-lantern-lookout",
+"kind": "campfire",
+"region": "mountains",
+"x": 516.3,
+"y": 448.5,
+"z": 738.3
+},
+{
+"id": "mountains-camp-fire-area-3-gnome-workshop",
+"kind": "campfire",
+"region": "mountains",
+"x": 282.7,
+"y": 431.4,
+"z": 1305.5
+},
+{
+"id": "mountains-camp-fire-stone-climb",
+"kind": "campfire",
+"region": "mountains",
+"x": 761.3,
+"y": 417.0,
+"z": 1363.0
+},
+{
+"id": "mountains-camp-fire-area-2-food-trucks",
+"kind": "campfire",
+"region": "mountains",
+"x": 952.8,
+"y": 414.9,
+"z": 1147.4
+},
+{
+"id": "mountains-camp-fire-rocky-getaway",
+"kind": "campfire",
+"region": "mountains",
+"x": 402.1,
+"y": 419.6,
+"z": 1400.4
+},
+{
+"id": "mountains-signal-tower-hiking-spiral",
+"kind": "tower",
+"region": "mountains",
+"x": 684.0,
+"y": 428.5,
+"z": 1382.2
+},
+{
+"id": "mountains-signal-tower-before-drawbridge",
+"kind": "tower",
+"region": "mountains",
+"x": 1289.9,
+"y": 397.5,
+"z": 787.3
+},
+{
+"id": "mountains-signal-tower-bamboo-forest",
+"kind": "tower",
+"region": "mountains",
+"x": 1205.5,
+"y": 406.1,
+"z": 1091.6
+},
+{
+"id": "mountains-signal-tower-ending-area",
+"kind": "tower",
+"region": "mountains",
+"x": 758.4,
+"y": 475.9,
+"z": 720.1
+},
+{
+"id": "mountains-signal-tower-communal-island",
+"kind": "tower",
+"region": "mountains",
+"x": 247.2,
+"y": 426.2,
+"z": 850.9
+},
+{
+"id": "mountains-signal-tower-after-drone-elevator",
+"kind": "tower",
+"region": "mountains",
+"x": 1117.3,
+"y": 447.5,
+"z": 552.0
+},
+{
+"id": "mountains-signal-tower-outcrop",
+"kind": "tower",
+"region": "mountains",
+"x": 1009.4,
+"y": 418.1,
+"z": 1321.6
+},
+{
+"id": "mountains-supply-cache-area-final-view",
+"kind": "cache",
+"region": "mountains",
+"x": 771.8,
+"y": 474.8,
+"z": 722.2
+},
+{
+"id": "mountains-supply-cache-area-1-cool-rock",
+"kind": "cache",
+"region": "mountains",
+"x": 1157.5,
+"y": 402.2,
+"z": 728.3
+},
+{
+"id": "mountains-supply-cache-area-3-communal",
+"kind": "cache",
+"region": "mountains",
+"x": 222.6,
+"y": 426.4,
+"z": 989.0
+},
+{
+"id": "mountains-supply-cache-area-2-food-trucks",
+"kind": "cache",
+"region": "mountains",
+"x": 948.1,
+"y": 415.0,
+"z": 1149.0
+},
+{
+"id": "mountains-supply-cache-area-3-gnome-workshop",
+"kind": "cache",
+"region": "mountains",
+"x": 277.0,
+"y": 431.4,
+"z": 1301.9
+},
+{
+"id": "mountains-supply-cache-campgrounds-9",
+"kind": "cache",
+"region": "mountains",
+"x": 481.0,
+"y": 426.0,
+"z": 1091.3
+},
+{
+"id": "mountains-supply-cache-campground-11",
+"kind": "cache",
+"region": "mountains",
+"x": 385.2,
+"y": 419.7,
+"z": 1407.6
+},
+{
+"id": "mountains-supply-cache-area-2-willow-geyser",
+"kind": "cache",
+"region": "mountains",
+"x": 557.7,
+"y": 423.9,
+"z": 1305.8
+},
+{
+"id": "mountains-supply-cache-campgrounds-2",
+"kind": "cache",
+"region": "mountains",
+"x": 1012.6,
+"y": 446.8,
+"z": 501.6
+},
+{
+"id": "mountains-supply-cache-area-2-outcrop",
+"kind": "cache",
+"region": "mountains",
+"x": 982.1,
+"y": 417.0,
+"z": 1336.8
+},
+{
+"id": "mountains-supply-cache-campgrounds-1",
+"kind": "cache",
+"region": "mountains",
+"x": 987.2,
+"y": 66.9,
+"z": 271.9
+},
+{
+"id": "mountains-supply-cache-hiking-path-secret",
+"kind": "cache",
+"region": "mountains",
+"x": 737.4,
+"y": 427.0,
+"z": 1387.8
+},
+{
+"id": "mountains-supply-cache-hot-spring-shed",
+"kind": "cache",
+"region": "mountains",
+"x": 362.3,
+"y": 439.3,
+"z": 934.0
+},
+{
+"id": "mountains-supply-cache-hot-springs-secret-waterfall",
+"kind": "cache",
+"region": "mountains",
+"x": 502.3,
+"y": 439.7,
+"z": 964.3
+},
+{
+"id": "mountains-camp-fire-festival-camping",
+"kind": "campfire",
+"region": "mountains",
+"x": 230.0,
+"y": 426.1,
+"z": 983.8
+}
+]

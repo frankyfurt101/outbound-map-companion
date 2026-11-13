@@ -1,0 +1,410 @@
+[
+ {
+  "id": "starting-level-exit",
+  "region": "startingLevel",
+  "name": "Starting Level Exit",
+  "x": 1145.23,
+  "y": 39.38,
+  "z": 817.82
+ },
+ {
+  "id": "the-falls",
+  "region": "startingLevel",
+  "name": "The Falls",
+  "x": 865.6,
+  "y": 45.5,
+  "z": 8.1
+ },
+ {
+  "id": "starting-left-bridge",
+  "region": "startingLevel",
+  "name": "Starting Left Bridge",
+  "x": 195.93,
+  "y": 29.14,
+  "z": 108.43
+ },
+ {
+  "id": "end-outpost",
+  "region": "startingLevel",
+  "name": "End Outpost",
+  "x": 1041.93,
+  "y": 51.26,
+  "z": 708.14
+ },
+ {
+  "id": "drawbridge",
+  "region": "startingLevel",
+  "name": "Drawbridge",
+  "x": 323.39,
+  "y": 28.6,
+  "z": -21.35
+ },
+ {
+  "id": "vehicle-elevator",
+  "region": "startingLevel",
+  "name": "Vehicle Elevator",
+  "x": 1105.63,
+  "y": 65.87,
+  "z": 474.47
+ },
+ {
+  "id": "starting-right-bridge",
+  "region": "startingLevel",
+  "name": "Starting Right Bridge",
+  "x": 444.49,
+  "y": 37.05,
+  "z": -218.4
+ },
+ {
+  "id": "bridge-at-falls",
+  "region": "startingLevel",
+  "name": "Bridge At Falls",
+  "x": 701.51,
+  "y": 24.73,
+  "z": -22.51
+ },
+ {
+  "id": "bridge-at-falls-upper",
+  "region": "startingLevel",
+  "name": "Bridge At Falls Upper",
+  "x": 1022.42,
+  "y": 66.05,
+  "z": 135.29
+ },
+ {
+  "id": "fire-lookout",
+  "region": "startingLevel",
+  "name": "Fire Lookout",
+  "x": 169.96,
+  "y": 56.35,
+  "z": -19.22
+ },
+ {
+  "id": "charging-station",
+  "region": "startingLevel",
+  "name": "Charging Station",
+  "x": 452.58,
+  "y": 7.05,
+  "z": 677.15
+ },
+ {
+  "id": "treehut",
+  "region": "startingLevel",
+  "name": "Treehut",
+  "x": 151.84,
+  "y": 42.4,
+  "z": 405.69
+ },
+ {
+  "id": "vehicle-painting-station",
+  "region": "startingLevel",
+  "name": "Vehicle Painting Station",
+  "x": 745.96,
+  "y": 6.0,
+  "z": 294.15
+ },
+ {
+  "id": "windmill",
+  "region": "startingLevel",
+  "name": "Windmill",
+  "x": 726.01,
+  "y": 77.0,
+  "z": 583.97
+ },
+ {
+  "id": "farm",
+  "region": "startingLevel",
+  "name": "Farm",
+  "x": 1059.77,
+  "y": 71.14,
+  "z": 312.21
+ },
+ {
+  "id": "rocky-plateau-log-cabin",
+  "region": "startingLevel",
+  "name": "Rocky Plateau Log Cabin",
+  "x": 372.89,
+  "y": 46.69,
+  "z": 234.75
+ },
+ {
+  "id": "animal-maze",
+  "region": "pacificCoast",
+  "name": "Animal Maze",
+  "x": 1060.29,
+  "y": 70.02,
+  "z": 448.16
+ },
+ {
+  "id": "ferry-dock",
+  "region": "pacificCoast",
+  "name": "Ferry Dock",
+  "x": 65.84,
+  "y": 39.89,
+  "z": 122.91
+ },
+ {
+  "id": "house-boat-village",
+  "region": "pacificCoast",
+  "name": "House Boat Village",
+  "x": 1264.25,
+  "y": 59.03,
+  "z": 758.98
+ },
+ {
+  "id": "pacific-level-exit",
+  "region": "pacificCoast",
+  "name": "Pacific Level Exit",
+  "x": 1459.4,
+  "y": 64.15,
+  "z": 1141.35
+ },
+ {
+  "id": "bixby-bridge",
+  "region": "pacificCoast",
+  "name": "The Stormhold Overpass",
+  "x": 1261.5,
+  "y": 38.2,
+  "z": 1028.4
+ },
+ {
+  "id": "pacific-level-entry",
+  "region": "pacificCoast",
+  "name": "Pacific Level Entry",
+  "x": 34.12,
+  "y": 62.64,
+  "z": 23.12
+ },
+ {
+  "id": "rusty-boat",
+  "region": "pacificCoast",
+  "name": "Rusty Boat",
+  "x": 915.47,
+  "y": 38.93,
+  "z": 1218.61
+ },
+ {
+  "id": "lighthouse",
+  "region": "pacificCoast",
+  "name": "Lighthouse",
+  "x": 598.07,
+  "y": 81.14,
+  "z": 693.27
+ },
+ {
+  "id": "dog-hotel",
+  "region": "pacificCoast",
+  "name": "Dog Hotel",
+  "x": 376.22,
+  "y": 44.05,
+  "z": 105.38
+ },
+ {
+  "id": "charging-station-pacific",
+  "region": "pacificCoast",
+  "name": "Charging Station Pacific",
+  "x": 1261.42,
+  "y": 92.33,
+  "z": 231.42
+ },
+ {
+  "id": "coffee-farm",
+  "region": "pacificCoast",
+  "name": "Coffee Farm",
+  "x": 1012.66,
+  "y": 58.1,
+  "z": 141.43
+ },
+ {
+  "id": "weather-station",
+  "region": "pacificCoast",
+  "name": "Weather Station",
+  "x": 902.98,
+  "y": 150.1,
+  "z": 987.6
+ },
+ {
+  "id": "canyons-vehicle-elevator-right",
+  "region": "canyons",
+  "name": "Vehicle Elevator Right",
+  "x": 1396.19,
+  "y": 69.91,
+  "z": 477.06
+ },
+ {
+  "id": "bridge-canyons-1",
+  "region": "canyons",
+  "name": "Bridge Canyons 1",
+  "x": 491.1,
+  "y": 70.61,
+  "z": 261.9
+ },
+ {
+  "id": "canyons-level-entry",
+  "region": "canyons",
+  "name": "Canyons Level Entry",
+  "x": 843.6,
+  "y": 82.36,
+  "z": 47.86
+ },
+ {
+  "id": "drawbridge-canyons",
+  "region": "canyons",
+  "name": "Drawbridge Canyons",
+  "x": 785.78,
+  "y": 69.83,
+  "z": 330.71
+ },
+ {
+  "id": "canyons-vehicle-elevator-left",
+  "region": "canyons",
+  "name": "Vehicle Elevator Left",
+  "x": 98.55,
+  "y": 71.49,
+  "z": 309.0
+ },
+ {
+  "id": "research-center",
+  "region": "canyons",
+  "name": "Research Center",
+  "x": 83.5,
+  "y": 55.01,
+  "z": 1110.09
+ },
+ {
+  "id": "charging-station-canyons",
+  "region": "canyons",
+  "name": "Charging Station Canyons",
+  "x": 471.06,
+  "y": 59.53,
+  "z": 962.43
+ },
+ {
+  "id": "vehicle-painting-station-canyons",
+  "region": "canyons",
+  "name": "Vehicle Painting Station Canyons",
+  "x": 1162.07,
+  "y": 77.34,
+  "z": 609.75
+ },
+ {
+  "id": "boat-repair",
+  "region": "canyons",
+  "name": "Boat Repair",
+  "x": 966.61,
+  "y": 87.5,
+  "z": 748.15
+ },
+ {
+  "id": "plant-house",
+  "region": "canyons",
+  "name": "Plant House",
+  "x": 164.11,
+  "y": 85.2,
+  "z": 179.54
+ },
+ {
+  "id": "kayak-club",
+  "region": "canyons",
+  "name": "Kayak Club",
+  "x": 1353.41,
+  "y": 79.46,
+  "z": 91.47
+ },
+ {
+  "id": "airstrip",
+  "region": "canyons",
+  "name": "Airstrip",
+  "x": 1282.64,
+  "y": 102.47,
+  "z": 1109.55
+ },
+ {
+  "id": "bridge-canyons-2",
+  "region": "canyons",
+  "name": "Bridge Canyons 2",
+  "x": 361.0,
+  "y": 70.61,
+  "z": 305.4
+ },
+ {
+  "id": "ferry-dock-mountains",
+  "region": "mountains",
+  "name": "Ferry Dock Mountains",
+  "x": 866.96,
+  "y": 64.72,
+  "z": 174.3
+ },
+ {
+  "id": "drone-dock-1",
+  "region": "mountains",
+  "name": "Drone Dock 1",
+  "x": 1056.34,
+  "y": 82.8,
+  "z": 382.81
+ },
+ {
+  "id": "food-trucks",
+  "region": "mountains",
+  "name": "Food Trucks",
+  "x": 887.98,
+  "y": 414.99,
+  "z": 1236.39
+ },
+ {
+  "id": "charging-station-mountains",
+  "region": "mountains",
+  "name": "Charging Station Mountains",
+  "x": 285.65,
+  "y": 416.93,
+  "z": 920.65
+ },
+ {
+  "id": "drawbridge-mountains",
+  "region": "mountains",
+  "name": "Drawbridge Mountains",
+  "x": 1311.81,
+  "y": 396.83,
+  "z": 884.89
+ },
+ {
+  "id": "vehicle-painting-station-mountains",
+  "region": "mountains",
+  "name": "Vehicle Painting Station Mountains",
+  "x": 1070.43,
+  "y": 401.89,
+  "z": 1295.67
+ },
+ {
+  "id": "gnome-workshop",
+  "region": "mountains",
+  "name": "Gnome Workshop",
+  "x": 243.45,
+  "y": 431.42,
+  "z": 1370.85
+ },
+ {
+  "id": "the-festival",
+  "region": "mountains",
+  "name": "The Festival",
+  "x": 996.24,
+  "y": 491.86,
+  "z": 809.54
+ },
+ {
+  "id": "drone-dock-2",
+  "region": "mountains",
+  "name": "Drone Dock 2",
+  "x": 767.56,
+  "y": 475.89,
+  "z": 658.33
+ },
+ {
+  "id": "hot-springs",
+  "region": "mountains",
+  "name": "Hot Springs",
+  "x": 451.25,
+  "y": 433.4,
+  "z": 939.42
+ }
+]

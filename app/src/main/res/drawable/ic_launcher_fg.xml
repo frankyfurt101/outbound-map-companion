@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Folded map with a dotted route and a red pin, inside the adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#2E000000" android:pathData="M27,51.5 L44,45.5 L62,51.5 L81,45.5 L81,77.5 L62,83.5 L44,77.5 L27,83.5 Z"/>
+    <path android:fillColor="#FFF6E0" android:pathData="M27,49 L44,43 L44,75 L27,81 Z"/>
+    <path android:fillColor="#EAD9B0" android:pathData="M44,43 L62,49 L62,81 L44,75 Z"/>
+    <path android:fillColor="#FFF6E0" android:pathData="M62,49 L81,43 L81,75 L62,81 Z"/>
+    <path android:fillColor="#A9D68A" android:pathData="M27,60 C32,56 37,58 44,54 L44,43 L27,49 Z"/>
+    <path android:fillColor="#8FD0E8" android:pathData="M62,70 C68,66 74,70 81,64 L81,75 L62,81 Z"/>
+    <path android:fillColor="#93BF76" android:pathData="M44,54 C50,57 56,60 62,58 L62,49 L44,43 Z"/>
+    <path android:fillColor="#E8453C" android:pathData="M33,72 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0 M38.5,68.5 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0 M44.5,67 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0 M50.5,68 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0 M56,66.5 m-1.7,0 a1.7,1.7 0 1,0 3.4,0 a1.7,1.7 0 1,0 -3.4,0"/>
+    <path android:fillColor="#40000000" android:pathData="M63,63 m-5.5,0 a5.5,2 0 1,0 11,0 a5.5,2 0 1,0 -11,0"/>
+    <path android:fillColor="#FF5A4E" android:pathData="M63,62 C63,62 51,47.5 51,38.5 a12,12 0 1,1 24,0 C75,47.5 63,62 63,62 Z"/>
+    <path android:fillColor="#E03E33" android:pathData="M63,62 C63,62 75,47.5 75,38.5 a12,12 0 0,0 -12,-12 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M63,38.5 m-4.8,0 a4.8,4.8 0 1,0 9.6,0 a4.8,4.8 0 1,0 -9.6,0"/>
+</vector>

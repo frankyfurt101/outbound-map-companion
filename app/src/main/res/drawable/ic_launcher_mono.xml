@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed-icon layer: the pin with a cut-out centre. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:fillType="evenOdd"
+        android:pathData="M54,30 C45.2,30 38,37.2 38,46 C38,57 54,78 54,78 C54,78 70,57 70,46 C70,37.2 62.8,30 54,30 Z M47,46 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0 Z"/>
+</vector>

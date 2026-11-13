@@ -1,0 +1,693 @@
+{
+ "generated": "2026-11-12",
+ "general": [
+  {
+   "title": "Signal towers and downloads",
+   "text": "Towers and terminals unlock blueprints. Each download costs 1 Download Voucher (also called Download Coupon). A tower shows up to 3 options and you take 1; options you skip can turn up at other towers later, and towers you already used can get a new signal after a few days.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://wikily.gg/outbound/exploration", "https://thegameswiki.com/outbound/wiki/exploration"],
+   "confidence": "high"
+  },
+  {
+   "title": "Litter, Recycler and vouchers",
+   "text": "Pick up Litter everywhere (campsites, built-up areas). The Recycler turns 2 Litter into 1 Download Voucher. Tip: lock vouchers in your backpack so a deposit to the van does not move them, then you can use a tower without walking back.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://wikily.gg/outbound/exploration", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://wikily.gg/outbound/quests"],
+   "confidence": "high"
+  },
+  {
+   "title": "Point-of-interest terminals (3 key items)",
+   "text": "Big ? landmarks have a terminal with a blueprint reward. To use it, first find 3 items somewhere at that landmark: Terminal Executable (floppy disk), Signal Decryptor (USB stick) and Password Databank. Search shelves, tables, roofs and upper floors.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.keengamer.com/articles/guides/how-to-fix-the-windmill-and-open-the-terminal-door-in-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "high"
+  },
+  {
+   "title": "Campfires",
+   "text": "Lighting a campfire adds it to your collectible tally; campsites also hold chests/supply caches, Litter and bottle caps. Fuel: one guide says 1 Everwood in the start area; a walkthrough uses Redwood on the Coast and Blossom wood in the Mountains; another guide just says Redwood. Rain stops you lighting them. 80 total (20/25/20/15 by region).",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://casualgameguides.com/walkthroughs/outbound/landmarks-collectibles-scenic-stops", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://www.trueachievements.com/game/Outbound/walkthrough/6", "https://wikily.gg/outbound/map/starting-level"],
+   "confidence": "medium"
+  },
+  {
+   "title": "Van charging and energy",
+   "text": "The van runs on battery charge. Ways to charge: feed Wood/Everwood or Fiber to the Power Unit / Bio Burner in the trunk and switch it on; build solar panels, wind turbines or rainwater turbines (blueprints from towers); or park at a charging station and press its button. Solar needs sun, wind needs wind; each unit adds charge on its own.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.keengamer.com/articles/guides/outbound-energy-guide-how-solar-wind-water-and-power-units-work/", "https://wikily.gg/outbound/quests/low-on-fuel", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/"],
+   "confidence": "high"
+  },
+  {
+   "title": "Energy by region",
+   "text": "KeenGamer's suggestions: Forest = solar + wind, Power Unit when raining. Coast = rains and is windy, so wind + rain turbines. Canyons = never rains, so solar + wind. Mountains = a mix of everything.",
+   "sources": ["https://www.keengamer.com/articles/guides/outbound-energy-guide-how-solar-wind-water-and-power-units-work/"],
+   "confidence": "medium"
+  },
+  {
+   "title": "Vehicle Research Station and motor upgrades",
+   "text": "Download the Vehicle Research Station at a tower; build it with 4 Scrap Metal + 4 Everwood Planks. Research an upgrade there, then craft it at the van workbench. Motor I (10 Bolts research) lets the van climb steep roads in the forest, e.g. up to the Windmill. Motor II and III are needed later; Cooling System helps in the hot Canyons.",
+   "sources": ["https://www.keengamer.com/articles/guides/how-to-research-and-craft-motor-upgrades-in-outbound/", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://wikily.gg/outbound/quests/motor-upgrade-1", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "high"
+  },
+  {
+   "title": "Motor II / III: where needed (sources disagree)",
+   "text": "KeenGamer's upgrade table says Motor II is for steep Coast roads and Motor III for the Canyons; its own ferry guide says Motor II is needed for the steep hill up to the Canyons Dry Dock. The TrueAchievements route builds Motor II in the Canyons before that hill and Motor III in the Mountains when the van stops on a slope.",
+   "sources": ["https://www.keengamer.com/articles/guides/how-to-research-and-craft-motor-upgrades-in-outbound/", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "low"
+  },
+  {
+   "title": "Workstations worth getting early",
+   "text": "Recycler (vouchers), Sawmill (2 Everwood -> 1 plank; needed for bridges), Metal Smelter, Bolt Press, Sewing Table (backpack 20 -> 40 slots, shirt = health, pants = stamina), Food Processor, Vehicle Research Station. Workstations are placed via the Build menu while camped (B on keyboard).",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "high"
+  },
+  {
+   "title": "Backpack, sprint and the van",
+   "text": "Your backpack starts at 20 slots. One guide says going over 20 items slows you and can stop sprinting. Use the van's deposit spot to dump the backpack into van storage, which TrueAchievements and IntoIndieGames describe as unlimited. Sprint can be set to tap-to-toggle in settings.",
+   "sources": ["https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "medium"
+  },
+  {
+   "title": "Food and health",
+   "text": "Staying hungry too long drains health, so carry food. Wild pickups like Roadberries, Bread, Carrots, Bananas and Amber Morel can be eaten. Food Processor makes Jam from Roadberries. Ginger restores health. Crop plots on the van grow crops you water. One guide says fainting costs little: you wake the next day with your items.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://wikily.gg/outbound/quests"],
+   "confidence": "medium"
+  },
+  {
+   "title": "Dog companion",
+   "text": "Adopt a dog at Paws & Whiskers Lodge on the Coast. It can stay or follow, takes treats, and carries about 10 extra items. Companion Research and Training stations add commands like fetching specific materials or taking items back to the van. One dog per game, even in co-op.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/"],
+   "confidence": "high"
+  },
+  {
+   "title": "Collectibles",
+   "text": "Campfires (80), cairns you stack a stone on (90), gnomes (100), paintings (14) and Cap 'n Snap machines that sell blueprints for bottle caps (2 per region, 8 total; about 36 caps empties one). The map reveals collectible icons as you drive near them.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://www.trueachievements.com/game/Outbound/walkthrough/6", "https://wikily.gg/outbound/map/starting-level", "https://wikily.gg/outbound/map/pacific-coast", "https://wikily.gg/outbound/map/canyons", "https://wikily.gg/outbound/map/mountains"],
+   "confidence": "high"
+  },
+  {
+   "title": "How regions unlock",
+   "text": "Order: Forest (start) -> Coast -> Canyons -> Mountains. Forest exit tunnel is blocked by rocks. Coast exit tunnel needs a repaired power box. The Mountains are reached only by the ferry: repair it at the Canyons Dry Dock, then drive onto it at the Coast Ferry Dock.",
+   "sources": ["https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://wikily.gg/outbound/quests/the-festival-completion", "https://www.trueachievements.com/game/Outbound/walkthrough/2", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more"],
+   "confidence": "high"
+  },
+  {
+   "title": "Broken bridges",
+   "text": "Fix broken bridges with planks of the local wood using a wrench: Everwood Planks in the Forest, Redwood Planks on the Coast and in the Canyons, Blossom Planks in the Mountains. Planks come from the Sawmill.",
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/", "https://wikily.gg/outbound/map/starting-level", "https://wikily.gg/outbound/map/canyons", "https://wikily.gg/outbound/map/mountains"],
+   "confidence": "high"
+  },
+  {
+   "title": "Stuck van and nights",
+   "text": "If the van flips or wedges, use Unstuck in the pause menu. Sleeping in the van's bed skips to morning. Resources respawn over time (one guide says every few days; scrap near towers and solar farms comes back after a day or two).",
+   "sources": ["https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://www.keengamer.com/articles/guides/how-to-research-and-craft-motor-upgrades-in-outbound/"],
+   "confidence": "medium"
+  },
+  {
+   "title": "Co-op",
+   "text": "Up to 4 players share one van. Everyone must finish the short tutorial first; the host shares a code from the pause menu. Progress lives on the host's save and blueprint unlocks are shared by the group.",
+   "sources": ["https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://casualgameguides.com/walkthroughs/outbound/beginner-route-first-upgrades", "https://thegameswiki.com/outbound/wiki/exploration"],
+   "confidence": "medium"
+  },
+  {
+   "title": "Research Center deliveries",
+   "text": "The Research Center in the Canyons has domes/tents that each want 5 items from one region (Forest, Coast, Canyons, Mountains). TrueAchievements: the first set opened a locked case holding a terminal item. All 4 sets = Certified Researcher achievement.",
+   "sources": ["https://wikily.gg/outbound/quests/research-center-completion", "https://wikily.gg/outbound/quests/research-center-canyons", "https://wikily.gg/outbound/quests/research-center-mountains", "https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "high"
+  }
+ ],
+ "regions": {
+  "startingLevel": {
+   "displayName": "The Forest (starting area)",
+   "overview": "First region: forest, wheat fields and windy hills. Main ? landmarks: Fire Lookout, Large Treehut, Windmill and Sunbeam Acres Farm. A river splits it; you cross via repaired bridges and a drawbridge. Has 23 signal towers, 20 campfires, 20 cairns, 25 gnomes, 4 paintings.",
+   "tips": [
+    "Start: light the first campfire, download Basic Tools at the tower, craft the Wrench from Scrap Metal and lift the barrier.",
+    "Get a Sawmill early: the first broken bridge needs 10 Everwood Planks.",
+    "Motor Upgrade I is needed to drive up to the Windmill; you can also walk.",
+    "Scrap Metal lies at the base of signal towers; you will need a lot.",
+    "Names differ by site: Starting Level (wikily), The Forest (TrueAchievements), The Outdoors (older beta wiki), Starting Meadows (one guide)."
+   ],
+   "sources": ["https://wikily.gg/outbound/map/starting-level", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/"],
+   "confidence": "high"
+  },
+  "pacificCoast": {
+   "displayName": "The Coast (Pacific Coast)",
+   "overview": "Second region: redwood forest, beaches and cliffs. Key stops: Paws & Whiskers Lodge (dog), Coffee Farm, Heartmoor Float Village, the Lighthouse, the Maze, the Stormhold Overpass and the Ferry Dock. 19 towers, 25 campfires, 25 cairns, 25 gnomes, 4 paintings.",
+   "tips": [
+    "Collect lots of Redwood; the Coast and Canyons both use it (campfires, bridges, planks).",
+    "A solar panel farm in the south-east has many Scrap Metal pickups that respawn.",
+    "Exit to the Canyons is a tunnel near the Stormhold Overpass; it needs Electronics and Battery Components.",
+    "Sickle II lets you cut the larger Durafiber bushes."
+   ],
+   "sources": ["https://wikily.gg/outbound/map/pacific-coast", "https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/"],
+   "confidence": "high"
+  },
+  "canyons": {
+   "displayName": "The Canyons",
+   "overview": "Third region: hot desert canyon. A deep canyon splits it; cross using the vehicle elevators. Key stops: Red Rock Rapids Kayak Club, Plant Collector's House, Red Ridge Airstrip, the Research Center and the Canyons Dry Dock (ferry). 13 towers, 20 campfires, 25 cairns, 25 gnomes, 4 paintings.",
+   "tips": [
+    "The van can overheat here; the Cooling System upgrade helps.",
+    "Clay is found at the canyon floor; one guide calls it limited.",
+    "Hyperfiber and Red Ore are found here; Sickle III is needed for the big Hyperfiber bushes.",
+    "The central drawbridge starts raised and is lowered from the far (north) side."
+   ],
+   "sources": ["https://wikily.gg/outbound/map/canyons", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/"],
+   "confidence": "high"
+  },
+  "mountains": {
+   "displayName": "The Mountains",
+   "overview": "Final region, reached only by the repaired ferry from the Coast Ferry Dock. Home of the Festival, the Gnome Workshop, hot springs, food stalls and 12 festival sites with levers. 10 towers, 15 campfires, 20 cairns, 25 gnomes, 3 paintings.",
+   "tips": [
+    "Pull the levers at all 12 festival sites for the Party Animal achievement.",
+    "Tier-4 tools (Axe IV, Pickaxe IV, Sickle IV) come from towers here.",
+    "Blossom wood, Quartz, Chrome Ore and Sugar are new here.",
+    "The ferry is also the only way back to the Coast."
+   ],
+   "sources": ["https://wikily.gg/outbound/map/mountains", "https://www.trueachievements.com/game/Outbound/walkthrough/6", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://casualgameguides.com/walkthroughs/outbound/radio-tower-blueprint-locations"],
+   "confidence": "high"
+  }
+ },
+ "places": [
+  {
+   "poiId": "fire-lookout",
+   "region": "startingLevel",
+   "playerName": "Fire Lookout",
+   "what": "Hilltop lookout tower a short way from the start; the first ? landmark.",
+   "todo": ["Climb the stairs to the cabin.", "Terminal Executable (floppy): on the counter by the computer.", "Signal Decryptor and Password Databank: on the rooftop patio (ladder from the balcony).", "Use the terminal and pick a reward."],
+   "rewards": ["Choice of Axe, Pickaxe or Sickle blueprint (Epic). Axe gets you Everwood logs."],
+   "requirements": [],
+   "tips": ["A cairn sits near the top; a campfire and a broken bridge are just below.", "Achievement: Two Forks Memories (explore the tower)."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://wikily.gg/outbound/quests"],
+   "confidence": "high",
+   "note": "TrueAchievements calls the reward choices cosmetic; Epic lists Axe/Pickaxe/Sickle."
+  },
+  {
+   "poiId": "treehut",
+   "region": "startingLevel",
+   "playerName": "Large Treehut",
+   "what": "Big tree with a multi-level hut on a hill, across the river north-west of the start.",
+   "todo": ["Climb the ladders to the main room: Signal Decryptor on a shelf.", "Left ladder: Password Databank by the mushroom jars.", "Right ladder: Terminal Executable on a small table.", "Use the terminal."],
+   "rewards": ["Sources disagree: Epic says a choice of Metal Smelter or Nailing Station; TrueAchievements downloads the Bolt Press here."],
+   "requirements": [],
+   "tips": ["Mushrooms (Amber Morel, Indigo Cap) grow around it.", "A gnome is on the ground on the far side of the tree."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://thegameswiki.com/outbound/wiki/landmarks"],
+   "confidence": "low"
+  },
+  {
+   "poiId": "windmill",
+   "region": "startingLevel",
+   "playerName": "The Windmill (Lilly's Windmill)",
+   "what": "Windmill on a hilltop among wheat and tulip fields east of the Treehut. Its terminal room stays locked until you repair it.",
+   "todo": ["Bring 20 Scrap Metal.", "Go up to the floor with levers; use the left lever to rotate the floor above until the boxes sit under the high wall switch.", "Climb the boxes, hit the switch; a ladder drops.", "Top floor: repair the cogwheel (20 Scrap Metal), pull the lever.", "Grab the 3 items, then use the terminal downstairs."],
+   "rewards": ["Mortar and Pestle blueprint (makes Paint from flower petals)."],
+   "requirements": ["20 Scrap Metal", "Wrench I", "Motor Upgrade I to drive up (or walk)"],
+   "tips": ["Signal Decryptor: greenhouse shelf by the door. Floppy: on a box near the cogwheel (top). Password: shelf in the terminal room.", "Sources disagree on lever presses: KeenGamer says twice, TrueAchievements says once. Watch the boxes line up.", "Achievement: Round 'n Round."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.keengamer.com/articles/guides/how-to-fix-the-windmill-and-open-the-terminal-door-in-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://wikily.gg/outbound/map/starting-level"],
+   "confidence": "low"
+  },
+  {
+   "poiId": "farm",
+   "region": "startingLevel",
+   "playerName": "Sunbeam Acres Farm",
+   "what": "Farm with a farmhouse, barn/garage, shed and wheat fields, reached after the vehicle elevator.",
+   "todo": ["Password Databank: in the small shed by the big water containers.", "Signal Decryptor: inside the farmhouse.", "Terminal Executable: in the barn/garage with the computer.", "Use the computer."],
+   "rewards": ["Spinning Wheel blueprint.", "Optional Cloudseeder task: 12 Wheat to harvest the next day (Epic)."],
+   "requirements": ["Optional Cloudseeder: 4 Scrap Metal + Wrench I to fix the water hose, then push the pump."],
+   "tips": ["Sleep a night after starting the Cloudseeder, then harvest."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://wikily.gg/outbound/quests/farm-cloudseeder", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "drawbridge",
+   "region": "startingLevel",
+   "playerName": "The Drawbridge",
+   "what": "Raised drawbridge linking the start area with the middle of the map. It cannot be lowered from the start side.",
+   "todo": ["Cross the river by a repaired bridge first.", "Drive round to the far side.", "Climb the tower next to the drawbridge and pull the lever."],
+   "rewards": ["Shortcut back to the start area."],
+   "requirements": [],
+   "tips": ["A gnome sits right by the lever."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://wikily.gg/outbound/quests/drawbridge-starting"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "starting-left-bridge",
+   "region": "startingLevel",
+   "playerName": "Broken bridge",
+   "what": "One of two broken river bridges in the Forest; repairable.",
+   "todo": ["Make 10 Everwood Planks at the Sawmill.", "Repair the bridge with the Wrench."],
+   "rewards": ["Opens a river crossing."],
+   "requirements": ["10 Everwood Planks", "Wrench I"],
+   "tips": ["Screenhype says the bridge you need first is just north of the Fire Lookout; which of left/right that is was not confirmed."],
+   "sources": ["https://wikily.gg/outbound/map/starting-level", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "starting-right-bridge",
+   "region": "startingLevel",
+   "playerName": "Broken bridge",
+   "what": "The second broken river bridge in the Forest; repairable.",
+   "todo": ["Make 10 Everwood Planks at the Sawmill.", "Repair the bridge with the Wrench."],
+   "rewards": ["Opens a river crossing."],
+   "requirements": ["10 Everwood Planks", "Wrench I"],
+   "tips": ["Screenhype places one 10-plank bridge east of the start area, leading back toward it; mapping to left/right not confirmed."],
+   "sources": ["https://wikily.gg/outbound/map/starting-level", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "bridge-at-falls-upper",
+   "region": "startingLevel",
+   "playerName": "Stonedrop Falls bridge",
+   "what": "Broken bridge high up by the falls, at the top of a steep road.",
+   "todo": ["Get Motor Upgrade I to drive up the steep road.", "Make the planks, then repair with the Wrench."],
+   "rewards": ["Route onward; Screenhype says it leads near Sunbeam Acres Farm."],
+   "requirements": ["Everwood Planks (sources disagree: wikily says 20, Screenhype says 30)", "Wrench I", "Motor Upgrade I"],
+   "tips": [],
+   "sources": ["https://wikily.gg/outbound/map/starting-level", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/"],
+   "confidence": "low",
+   "note": "Screenhype's 'top of the eastern incline' bridge is matched to this POI by its description and plank count; not stated by name."
+  },
+  {
+   "poiId": "vehicle-elevator",
+   "region": "startingLevel",
+   "playerName": "Vehicle Elevator",
+   "what": "Large lift near a mining area that carries the van between levels on the way to the farm.",
+   "todo": ["Reach the top on foot (TrueAchievements jumps up the wall).", "Power it at the console and send it down.", "Drive the van on and pull the up lever."],
+   "rewards": ["Road toward Sunbeam Acres Farm."],
+   "requirements": [],
+   "tips": ["Coarse ore and scrap lie around the nearby mining rig."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "charging-station",
+   "region": "startingLevel",
+   "playerName": "Charging Station",
+   "what": "Roadside station by the wheat/wind-turbine fields that recharges the van.",
+   "todo": ["Park in it and press the button."],
+   "rewards": ["Van battery recharge (one guide: a free full charge)."],
+   "requirements": [],
+   "tips": ["Good stop before and after the climb to the Windmill."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "vehicle-painting-station",
+   "region": "startingLevel",
+   "playerName": "Vehicle Painting Station",
+   "what": "Open station in the wind-turbine fields where you can repaint the van.",
+   "todo": ["Make Paint: Mortar and Pestle, 5 Flower Petals per Paint.", "Park inside the marked rectangle.", "Get out and use the terminal."],
+   "rewards": ["New van colours. Painting 10 times = Chromatic Confusion achievement."],
+   "requirements": ["Paint in your inventory"],
+   "tips": ["Blue tulips near the Windmill give petals in the Forest."],
+   "sources": ["https://www.screenhype.co.uk/how-to-repaint-your-campervan-in-outbound/", "https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://intoindiegames.com/walkthroughs/tips-tricks/ultimate-guide-to-outbound/"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "rocky-plateau-log-cabin",
+   "region": "startingLevel",
+   "playerName": "Log cabin",
+   "what": "Log cabin reached on foot by trails and small bridges.",
+   "todo": ["Go inside: Painting is on the wall, a gnome on the bookshelf next to it."],
+   "rewards": ["Painting (collectible)", "Gnome"],
+   "requirements": [],
+   "tips": [],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/3", "https://wikily.gg/outbound/map/starting-level"],
+   "confidence": "low",
+   "note": "Matched because wikily lists one log cabin POI in this region; TrueAchievements does not name it."
+  },
+  {
+   "poiId": "starting-level-exit",
+   "region": "startingLevel",
+   "playerName": "Tunnel to the Coast",
+   "what": "Tunnel out of the Forest toward the Coast, blocked by a rock cave-in.",
+   "todo": ["Finish the four main landmarks.", "Stock up before leaving.", "Break the rocks at the tunnel and drive through."],
+   "rewards": ["Access to the Coast."],
+   "requirements": ["Epic says Axe II smashes the rocks; TrueAchievements does not name the tool."],
+   "tips": ["Epic: head north-west to find the tunnel."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/3"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "pacific-level-entry",
+   "region": "pacificCoast",
+   "playerName": "Coast entrance",
+   "what": "Where the road from the Forest enters the Coast.",
+   "todo": ["Drive in for the To the Coast achievement.", "Paws & Whiskers Lodge and the Ferry Dock are close by."],
+   "rewards": [],
+   "requirements": [],
+   "tips": [],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "dog-hotel",
+   "region": "pacificCoast",
+   "playerName": "Paws & Whiskers Lodge",
+   "what": "Dog adoption lodge near the start of the Coast, by the Ferry Dock.",
+   "todo": ["Go into the building and pick up the dog treats.", "Go to the backyard and adopt a dog.", "Pet it (Can You Pet the Dog? achievement)."],
+   "rewards": ["Dog companion (Fur-Ever Friend achievement)."],
+   "requirements": [],
+   "tips": ["A tower on the path to the lodge offered the Smasher in one run.", "A gnome is in the mailbox at the entrance."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://casualgameguides.com/walkthroughs/outbound/landmarks-collectibles-scenic-stops"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "ferry-dock",
+   "region": "pacificCoast",
+   "playerName": "The Ferry Dock",
+   "what": "Dock near the Coast entrance. The ferry is missing at first (a note says it is out for repairs).",
+   "todo": ["Repair the ferry at the Canyons Dry Dock first.", "Come back; the ferry is now docked here.", "Drive the van all the way to the far end of the ferry to travel to the Mountains."],
+   "rewards": ["Only route to the Mountains (and back)."],
+   "requirements": ["Ferry repaired in the Canyons"],
+   "tips": ["Boarding on foot does not work; no lever needed. Have the dog in the van."],
+   "sources": ["https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://wikily.gg/outbound/locations/ferry-dock", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "coffee-farm",
+   "region": "pacificCoast",
+   "playerName": "The Coffee Farm",
+   "what": "Coffee plantation below the cliffs where flying robots water the beans.",
+   "todo": ["Climb the tower on the field's north side: Password on a small table.", "Floppy disk: by the broken robot at the 3 blue boxes.", "Signal Decryptor: on a green table in the house.", "Use the computer."],
+   "rewards": ["Coffee Making blueprint", "Raw Coffee Beans from the brown plants", "Painting in the house"],
+   "requirements": ["Optional: 2 Electronics to repair the aerial watering robot."],
+   "tips": ["A gnome hides under the broken robot."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://wikily.gg/outbound/quests/coffee-farm-completion", "https://wikily.gg/outbound/quests/coffee-farm-flying-robot", "https://wikily.gg/outbound/locations"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "house-boat-village",
+   "region": "pacificCoast",
+   "playerName": "Heartmoor Float Village",
+   "what": "Row of houses on the lake.",
+   "todo": ["Red house: floppy disk on the 2nd-floor balcony table.", "Greenhouse: Signal Decryptor on the crops in the shed.", "Orange house: Password on the counter.", "Use the computer on the blue house's 2nd-floor balcony."],
+   "rewards": ["Assembler blueprint (makes Electronics)."],
+   "requirements": [],
+   "tips": ["A gnome is in a tiny pool on the blue house deck."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://wikily.gg/outbound/quests/house-boat-village-completion"],
+   "confidence": "high"
+  },
+  {
+   "poiId": null,
+   "region": "pacificCoast",
+   "playerName": "Gear puzzle shed",
+   "what": "Shed with a cogwheel puzzle near Heartmoor Float Village, across the river.",
+   "todo": ["Fill the empty cog slot on the right side.", "From the left: press cog 1 once, cog 2 once, the spinning cogs 3 times, the next 2 once each."],
+   "rewards": ["Master of Gear achievement."],
+   "requirements": ["Cogwheel repair: 1 Bolts + 2 Redwood Planks (wikily)"],
+   "tips": ["A gnome is at the end of the pipe that leads into the cave."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://wikily.gg/outbound/map/pacific-coast"],
+   "confidence": "medium",
+   "note": "Not in pois.json as a named POI; nearest candidate is house-boat-village."
+  },
+  {
+   "poiId": "lighthouse",
+   "region": "pacificCoast",
+   "playerName": "The Lighthouse",
+   "what": "Clifftop lighthouse with a broken beacon, reached over a broken bridge.",
+   "todo": ["Repair the bridge (10 Redwood Planks).", "Decryptor: green table outside. Floppy: 2nd floor floor. Password: inside door on 3rd floor.", "Pull the down levers to the ground floor, fix the bulb (3 Electronics), then work back up and pull the rotation lever.", "Use the terminal."],
+   "rewards": ["Paintbrush blueprint (TrueAchievements)", "Edison Approves achievement", "Painting on the 2nd floor"],
+   "requirements": ["10 Redwood Planks", "3 Electronics", "Wrench I"],
+   "tips": ["Wikily says the bulb fix needs no tool."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/4", "https://wikily.gg/outbound/quests/lighthouse-completion", "https://wikily.gg/outbound/map/pacific-coast", "https://www.screenhype.co.uk/how-to-fix-the-broken-bridges-in-outbound/"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "animal-maze",
+   "region": "pacificCoast",
+   "playerName": "The Maze",
+   "what": "Hedge maze shaped like a fish, with a signal tower at its 'eye'.",
+   "todo": ["Follow the direction signs, or climb onto the maze walls and walk along the top.", "Drop down to the tower in the centre and download."],
+   "rewards": ["Tower blueprint (Mushroom Growing in one run)", "A gnome and a cairn inside"],
+   "requirements": ["1 Download Voucher"],
+   "tips": ["The Maze View campfire gives a view from above."],
+   "sources": ["https://wikily.gg/outbound/quests/animal-maze", "https://www.trueachievements.com/game/Outbound/walkthrough/4"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "weather-station",
+   "region": "pacificCoast",
+   "playerName": "The Weather Station",
+   "what": "Hilltop building with a wind turbine, up ladders off a mountain path.",
+   "todo": ["Find the fuse box on the south side.", "Fix it with 3 Electronics.", "Go inside and use the terminal."],
+   "rewards": ["Battery Assembler blueprint (TrueAchievements)", "Painting above the couch"],
+   "requirements": ["3 Electronics", "Wrench I"],
+   "tips": [],
+   "sources": ["https://wikily.gg/outbound/quests/weather-station", "https://www.trueachievements.com/game/Outbound/walkthrough/4"],
+   "confidence": "medium",
+   "note": "TrueAchievements does not name the building; matched by the fuse box + 3 Electronics task."
+  },
+  {
+   "poiId": "bixby-bridge",
+   "region": "pacificCoast",
+   "playerName": "The Stormhold Overpass",
+   "what": "Large bridge in the north-east of the Coast, near the tunnel to the Canyons.",
+   "todo": ["Find the lookout platform that shows the whole bridge."],
+   "rewards": ["Completes the landmark."],
+   "requirements": [],
+   "tips": [],
+   "sources": ["https://wikily.gg/outbound/quests/bixby-bridge-completion", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "pacific-level-exit",
+   "region": "pacificCoast",
+   "playerName": "Tunnel to the Canyons",
+   "what": "Tunnel in the north-east of the Coast, shut by a door that needs power.",
+   "todo": ["Clear the vines.", "Insert battery parts in the left electrical box.", "Fix the fuses in the right box.", "Pull the lever."],
+   "rewards": ["Access to the Canyons."],
+   "requirements": ["2 Battery Components", "3 Electronics", "Wrench I"],
+   "tips": ["KeenGamer puts all parts in the right-hand box; wikily splits them left/right."],
+   "sources": ["https://wikily.gg/outbound/quests/pacific-level-exit", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/4"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "charging-station-pacific",
+   "region": "pacificCoast",
+   "playerName": "Charging Station",
+   "what": "Roadside van charging station on the Coast.",
+   "todo": ["Park and press the button to recharge."],
+   "rewards": ["Van recharge"],
+   "requirements": [],
+   "tips": ["A gnome sits in the middle of the rock formation just south of it."],
+   "sources": ["https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more", "https://www.trueachievements.com/game/Outbound/walkthrough/4"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "canyons-level-entry",
+   "region": "canyons",
+   "playerName": "Canyons entrance",
+   "what": "Where the tunnel from the Coast enters the Canyons.",
+   "todo": ["Drive in for the Into the Canyons achievement."],
+   "rewards": [],
+   "requirements": [],
+   "tips": ["Cotton grows near the first campfire."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/5"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "plant-house",
+   "region": "canyons",
+   "playerName": "Plant Collector's House",
+   "what": "Building full of plants with an old bonsai.",
+   "todo": ["Bring Water.", "Water the bonsai inside.", "Grab the painting on the wall."],
+   "rewards": ["Painting", "A tower behind the house offered Pickaxe III in one run"],
+   "requirements": ["Water"],
+   "tips": ["A gnome is on a table inside."],
+   "sources": ["https://wikily.gg/outbound/quests/plant-house", "https://www.trueachievements.com/game/Outbound/walkthrough/5"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "kayak-club",
+   "region": "canyons",
+   "playerName": "Red Rock Rapids Kayak Club",
+   "what": "Kayak club by a waterfall with a broken bridge, on the road to the east elevator.",
+   "todo": ["Clear the boulders on the road (Pickaxe III).", "Decryptor: by the paddles on the dirt path east.", "Fix the bridge (10 Redwood Planks).", "Password: table with life jackets. Floppy: clothesline by red picnic tables.", "Use the terminal in the shed."],
+   "rewards": ["Bread Press blueprint (TrueAchievements)", "Painting in the shed"],
+   "requirements": ["10 Redwood Planks", "Wrench I", "Pickaxe III for the boulders"],
+   "tips": ["A gnome is outside the shed door."],
+   "sources": ["https://wikily.gg/outbound/quests/kayak-club-completion", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/5"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "canyons-vehicle-elevator-right",
+   "region": "canyons",
+   "playerName": "East vehicle elevator",
+   "what": "Lift down into the canyon at its east end, past the Kayak Club.",
+   "todo": ["Call it if it is at the bottom.", "Drive on and pull the lever."],
+   "rewards": ["Route across the canyon toward the Dry Dock."],
+   "requirements": ["Pickaxe III and the Kayak Club bridge to reach it (KeenGamer)"],
+   "tips": ["KeenGamer calls this the faster way to the Dry Dock."],
+   "sources": ["https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/"],
+   "confidence": "medium",
+   "note": "Right = east is inferred from pois.json coordinates (this elevator sits next to kayak-club)."
+  },
+  {
+   "poiId": "canyons-vehicle-elevator-left",
+   "region": "canyons",
+   "playerName": "West vehicle elevator",
+   "what": "Lift down into the canyon at its west end.",
+   "todo": ["Park on it and pull the down lever.", "Clay is on the canyon floor."],
+   "rewards": ["Route across the canyon."],
+   "requirements": [],
+   "tips": ["TrueAchievements takes this one down and the other one up."],
+   "sources": ["https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/5"],
+   "confidence": "medium",
+   "note": "Left = west inferred from pois.json coordinates."
+  },
+  {
+   "poiId": "drawbridge-canyons",
+   "region": "canyons",
+   "playerName": "The Canyon Drawbridge",
+   "what": "Drawbridge in the middle of the canyon; raised and unusable from the south side.",
+   "todo": ["Reach the north side via an elevator.", "Climb the tower by the bridge and pull the lever."],
+   "rewards": ["Direct crossing of the canyon."],
+   "requirements": [],
+   "tips": [],
+   "sources": ["https://wikily.gg/outbound/quests/drawbridge-canyons", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/5"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "boat-repair",
+   "region": "canyons",
+   "playerName": "The Canyons Dry Dock",
+   "what": "Hilltop dock in the north-east Canyons where the broken ferry (an airship) waits.",
+   "todo": ["Drive up the steep hill (Motor II).", "Repair the motor: 4 Casings, 2 Electronics, 2 Hardened Metal.", "Repair 3 transport balloons: 2 Strong Weave + 2 Hyperthread each.", "The ferry flies off to the Coast Ferry Dock."],
+   "rewards": ["Ferry Poppins achievement; access to the Mountains."],
+   "requirements": ["Wrench II", "Motor Upgrade II", "Sickle III for Hyperfiber"],
+   "tips": ["Lots of Scrap Metal around the ferry area.", "Total about 48 Hyperfiber for the balloons."],
+   "sources": ["https://wikily.gg/outbound/locations/ferry-dock", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/", "https://www.trueachievements.com/game/Outbound/walkthrough/5"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "airstrip",
+   "region": "canyons",
+   "playerName": "Red Ridge Airstrip",
+   "what": "Small desert airstrip with a hot air balloon and a building with a red plane.",
+   "todo": ["Ride and light the hot air balloon up.", "Repair the signal tower up top: 4 Hardened Metal + 2 Electronics.", "Come back down and use the computer in the red-plane building."],
+   "rewards": ["Weaver blueprint (TrueAchievements)", "Up, up and away! achievement"],
+   "requirements": ["Wrench II"],
+   "tips": ["Red Ore is common around the airstrip.", "A salt lake bed lies nearby."],
+   "sources": ["https://wikily.gg/outbound/quests/airstrip-signal-tower-repair", "https://wikily.gg/outbound/quests/airstrip-completion", "https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/"],
+   "confidence": "high"
+  },
+  {
+   "poiId": null,
+   "region": "canyons",
+   "playerName": "Generator shed (Wrench II)",
+   "what": "Shed with a signal tower out in the desert; its porch generator is broken.",
+   "todo": ["Repair the generator on the porch: 2 Electronics + 1 Water.", "Use the terminal."],
+   "rewards": ["Wrench II blueprint (TrueAchievements)", "Painting inside"],
+   "requirements": ["Wrench I"],
+   "tips": ["Wrench II craft: 4 Hardened Metal, 2 Casings, 2 Bolts."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://wikily.gg/outbound/map/canyons", "https://www.keengamer.com/articles/guides/how-to-fix-the-ferry-in-outbound-and-reach-the-mountain/"],
+   "confidence": "medium",
+   "note": "No matching POI in pois.json found."
+  },
+  {
+   "poiId": "research-center",
+   "region": "canyons",
+   "playerName": "The Research Center",
+   "what": "Tents/domes by a satellite dish; each wants 5 sample items from one region.",
+   "todo": ["Forest set: Coarse Ore, Fiber, Carrot, Indigo Cap, Grain.", "Coast set: Sun Cap, Honey, Raw Coffee Beans, Sea Shell, Coconut.", "Canyons set: Corn, Red Ore, Cotton, Golden Bolete, Wild Tomatoes.", "Mountains set: Pak Choi, Chrome Ore, Lotus Flower, Cherries, Bamboo."],
+   "rewards": ["Terminal items: one set unlocks a hexagon case with the Signal Decryptor; Password and floppy are picked up at the other tents", "Certified Researcher achievement"],
+   "requirements": [],
+   "tips": ["Mountains items come later, so plan a return trip."],
+   "sources": ["https://wikily.gg/outbound/quests/research-center-completion", "https://wikily.gg/outbound/quests/research-center-canyons", "https://wikily.gg/outbound/quests/research-center-mountains", "https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "high",
+   "note": "Forest and Coast item lists come from TrueAchievements only."
+  },
+  {
+   "poiId": "vehicle-painting-station-canyons",
+   "region": "canyons",
+   "playerName": "Vehicle Painting Station",
+   "what": "Van paint station in the Canyons.",
+   "todo": ["Park in the marked area, get out, use the terminal with Paint in your inventory."],
+   "rewards": ["New van colours"],
+   "requirements": ["Paint"],
+   "tips": [],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://www.screenhype.co.uk/how-to-repaint-your-campervan-in-outbound/"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "charging-station-canyons",
+   "region": "canyons",
+   "playerName": "Charging Station",
+   "what": "Van charging station in the Canyons.",
+   "todo": ["Park and press the button."],
+   "rewards": ["Van recharge"],
+   "requirements": [],
+   "tips": ["A gnome is on the floor next to the button."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/5", "https://store.epicgames.com/news/outbound-guide-tips-crafting-resources-camping-more"],
+   "confidence": "medium"
+  },
+  {
+   "poiId": "ferry-dock-mountains",
+   "region": "mountains",
+   "playerName": "Mountains ferry dock",
+   "what": "Where the ferry drops you in the Mountains; also the way back.",
+   "todo": ["Drive forward for the Up the Mountains achievement."],
+   "rewards": [],
+   "requirements": ["Repaired ferry"],
+   "tips": [],
+   "sources": ["https://wikily.gg/outbound/locations/ferry-dock", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "the-festival",
+   "region": "mountains",
+   "playerName": "The Festival",
+   "what": "Festival grounds around a large maypole.",
+   "todo": ["Drive up to the maypole.", "Park the van in the marked festival spot."],
+   "rewards": ["The Festival achievement"],
+   "requirements": [],
+   "tips": ["Separate: 12 festival sites with levers around the region (Party Animal)."],
+   "sources": ["https://wikily.gg/outbound/quests/the-festival-completion", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "gnome-workshop",
+   "region": "mountains",
+   "playerName": "Gnome Workshop",
+   "what": "House in a garden full of gnome statues.",
+   "todo": ["Pick up the 2 gnomes on the computer (Meet the Devs! achievement).", "Use the terminal.", "Gnome in the corner plant; painting on the opposite wall."],
+   "rewards": ["Crop Plot Counter blueprint (TrueAchievements)", "Painting"],
+   "requirements": [],
+   "tips": ["More gnomes on the mailbox and on a statue's hand along the garden path."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/6", "https://www.trueachievements.com/game/Outbound/walkthrough/2", "https://wikily.gg/outbound/map/mountains"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "drawbridge-mountains",
+   "region": "mountains",
+   "playerName": "The Drawbridge in the Mountains",
+   "what": "Drawbridge reached by walkways, with a broken bridge first.",
+   "todo": ["Make 10 Blossom Planks.", "Walk west on the walkway and repair the bridge.", "Climb the tower and pull the lever; drive across."],
+   "rewards": ["Road onward"],
+   "requirements": ["10 Blossom Planks", "Wrench II"],
+   "tips": ["A gnome is near the lever."],
+   "sources": ["https://wikily.gg/outbound/map/mountains", "https://wikily.gg/outbound/quests/drawbridge-mountains", "https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "high"
+  },
+  {
+   "poiId": "food-trucks",
+   "region": "mountains",
+   "playerName": "Food stalls",
+   "what": "Food stalls among parked campers, up stairs from a parking lot.",
+   "todo": ["Pull the 3 levers between the tables (one of the 12 festival sites)."],
+   "rewards": ["Festival site progress"],
+   "requirements": [],
+   "tips": ["A gnome is on a table at the pink stall."],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/6"],
+   "confidence": "low",
+   "note": "TrueAchievements says 'food stalls'; matched to food-trucks by description only."
+  },
+  {
+   "poiId": null,
+   "region": "mountains",
+   "playerName": "Vehicle elevator(s)",
+   "what": "Lifts for the van. One sits early on, past a building with a lever and a tower; a later one is by Cap 'n Snap #8.",
+   "todo": ["Drive onto the lift and pull the up or down lever."],
+   "rewards": [],
+   "requirements": [],
+   "tips": [],
+   "sources": ["https://www.trueachievements.com/game/Outbound/walkthrough/6", "https://wikily.gg/outbound/map/mountains"],
+   "confidence": "low",
+   "note": "Wikily lists 'Drone Elevator Bottom' and 'Vehicle Elevator Drone Variant 2'; candidates drone-dock-1 / drone-dock-2, mapping not confirmed."
+  }
+ ]
+}
